@@ -1,5 +1,5 @@
 .Project Name:
- petCare
+ petcare
 
 .Project Purpose:
  PetCare is a responsive React-based website where users can explore pet-related service, view profiles,and securly log in.The goal of this project to pratice React components,Firebase,authentication,routing .
