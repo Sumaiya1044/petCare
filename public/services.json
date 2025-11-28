@@ -1,0 +1,111 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+   "image": "https://i.ibb.co/XkWvjycP/f8398d7bf84e708e94d10cde52a32ed8.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://i.ibb.co/7df5Cr8P/a57dc9f44a5347cbb058d4419450f502.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Dog Walking & Exercise",
+    "providerName": "Happy Paws",
+    "providerEmail": "contact@happypaws.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Daily dog walking and outdoor exercise tailored to your dog's energy level.",
+    "image": "https://i.ibb.co/mrsgz4dr/10993e3ee5a5e5812eb7ed95dbb70dea.jpg",
+    "category": "Exercise"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Pet Dental Cleaning",
+    "providerName": "Healthy Pets Clinic",
+    "providerEmail": "dentals@healthypets.com",
+    "price": 40,
+    "rating": 4.6,
+    "slotsAvailable": 2,
+    "description": "Professional dental checkup and cleaning for dogs and cats.",
+    "image": "https://i.ibb.co/VYKbCt3h/84a761859298678161f4ed60a170c150.jpg",
+    "category": "Health"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Cat Haircut & Grooming",
+    "providerName": "Feline Fancy",
+    "providerEmail": "info@felinefancy.com",
+    "price": 28,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Expert cat grooming with gentle trimming and styling.",
+    "image": "https://i.ibb.co/qT9RQQ9/c4b2ebf6bfc20ed98b2fa12191b83371.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Pet Photography Session",
+    "providerName": "Pawfect Shots",
+    "providerEmail": "photos@pawfectshots.com",
+    "price": 50,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "Professional photo shoot to capture your pet's personality.",
+    "image": "https://i.ibb.co/twR2WnSS/b8c81750d91ccd782aa064973c6b03a5.jpg",
+    "category": "Photography"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Pet Boarding & Daycare",
+    "providerName": "SafePaws Boarding",
+    "providerEmail": "stay@safepaws.com",
+    "price": 35,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Safe and fun boarding for your pets while you are away.",
+    "image": "https://i.ibb.co/DDbz0999/8f3fdd2dd7f388ff94ef5e4b067aa31c.jpg",
+    "category": "Boarding"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Pet Nutrition Consultation",
+    "providerName": "Healthy Tails",
+    "providerEmail": "nutrition@healthytails.com",
+    "price": 35,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Personalized diet plans to keep your pets healthy and energetic.",
+    "image": "https://i.ibb.co/G4xByngT/d414e6db26b5f7182095b85f3eb815ae.jpg",
+    "category": "Health"
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Pet Spa & Massage",
+    "providerName": "Relax Paws Spa",
+    "providerEmail": "spa@relaxpaws.com",
+    "price": 40,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "Relaxing spa treatments and massages for dogs and cats.",
+    "image": "https://i.ibb.co/yFTJVDzg/fe77259222dc21a082ddb5058d452c91.jpg",
+    "category": "Grooming"
+  }
+  
+  ]
