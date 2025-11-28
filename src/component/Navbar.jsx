@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { AuthContext } from '../Provider/AuthProvider';
+import { AuthContext } from '../provider/AuthProvider';
 import { getAuth, signOut } from "firebase/auth";
 import userLogo from '../assets/user.png';
 

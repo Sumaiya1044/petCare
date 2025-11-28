@@ -22,7 +22,8 @@ npm package:
 .npm install  tailwindcss
 .npm install framer-motion
 
-.live URL
+.live URL:
+https://sunny-pothos-a3ccf1.netlify.app/
 
 
 
